@@ -22,4 +22,5 @@
 
 # Links
 
-<a href="https://blog.naver.com/ricky0130"><img src="https://img.shields.io/badge/naver-4479A1?style=for-the-badge&logo=naver&logoColor=white"> </a>
+<a href="https://blog.naver.com/ricky0130"><img src="https://img.shields.io/badge/naver-green?style=for-the-badge&logo=naver&logoColor=white"> </a>
+<a href="https://www.facebook.com/profile.php?id=100009001297630"><img src="https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=facebook&logoColor=white"></a>
