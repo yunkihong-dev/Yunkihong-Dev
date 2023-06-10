@@ -24,3 +24,6 @@
 
 <a href="https://blog.naver.com/ricky0130"><img src="https://img.shields.io/badge/naver-green?style=for-the-badge&logo=naver&logoColor=white"> </a>
 <a href="https://www.facebook.com/profile.php?id=100009001297630"><img src="https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=facebook&logoColor=white"></a>
+
+# Contract
+<a href="https://open.kakao.com/o/s8Top8of"><img src="https://img.shields.io/badge/kakao-yellow?style=for-the-badge&logo=kakao&logoColor=black"> </a>
