@@ -3,10 +3,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Yunki's%20Github&fontSize=60"/>
 </div>
 
-- blog : <a href="https://blog.naver.com/ricky0130"><img src="https://img.shields.io/badge/naver-green?style=for-the-badge&logo=naver&logoColor=white"> </a>
+- blog : <a href=""><img src="https://img.shields.io/badge/naver-green?style=for-the-badge&logo=naver&logoColor=white"> </a>
 - facebook : <a href="https://www.facebook.com/profile.php?id=100009001297630"><img src="https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=facebook&logoColor=white"></a>
 - kakaotalk : <a href="https://open.kakao.com/o/s8Top8of"><img src="https://img.shields.io/badge/kakaotalk-yellow?style=for-the-badge&logo=kakaotalk&logoColor=black"> </a>
-- notion : <a href=""><img src="https://img.shields.io/badge/notion-white?style=for-the-badge&logo=kakaotalk&logoColor=black"> </a>
 
 
 
@@ -17,8 +16,8 @@
 👶 2000.01.30 <br>
 📞 010-9822-4849 <br>
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ricky0130@naver.com)](mailto:ricky0130@naver.com) <span><a href="https://ricky0130.notion.site/373a5d0e1acf4740bda320408d6d302e?pvs=4"><img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black"/></span></a>
-
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ricky0130@naver.com)](mailto:ricky0130@naver.com) <span><a href="https://ricky0130.notion.site/373a5d0e1acf4740bda320408d6d302e?pvs=4"><img src="https://img.shields.io/badge/naver-green?style=round-square&logo=Notion&logoColor=black"/></span></a>
+ <span><a href="https://blog.naver.com/ricky0130"><img src="https://img.shields.io/badge/Naver-green?style=round-square&logo=Naver&logoColor=black"/></span></a>
 
 
 <br>
