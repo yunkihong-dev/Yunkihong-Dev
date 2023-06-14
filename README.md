@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Yunki's%20Github&fontSize=60"/>
 </div>
 
-- facebook : <a href="https://www.facebook.com/profile.php?id=100009001297630"><img src="https://img.shields.io/badge/facebook-blue?style=round-square&logo=facebook&logoColor=white"></a>
+- facebook : 
 - kakaotalk : <a href="https://open.kakao.com/o/s8Top8of"><img src="https://img.shields.io/badge/kakaotalk-yellow?style=for-the-badge&logo=kakaotalk&logoColor=black"> </a>
 
 
@@ -19,7 +19,7 @@
  <span><a href="https://blog.naver.com/ricky0130"><img src="https://img.shields.io/badge/Naver-green?style=round-square&logo=Naver&logoColor=white"/></span></a>
  
  <span><a href="https://www.facebook.com/profile.php?id=100009001297630"><img src="https://img.shields.io/badge/facebook-blue?style=round-square&logo=
- facebook&logoColor=white"/></span></a>
+  facebook&logoColor=white"/></a></span>
 
 
 <br>
