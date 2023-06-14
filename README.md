@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Yunki's%20Github&fontSize=60"/>
 </div>
 
-- facebook : <a href="https://www.facebook.com/profile.php?id=100009001297630"><img src="https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=facebook&logoColor=white"></a>
+- facebook : <a href="https://www.facebook.com/profile.php?id=100009001297630"><img src="https://img.shields.io/badge/facebook-blue?style=round-square&logo=facebook&logoColor=white"></a>
 - kakaotalk : <a href="https://open.kakao.com/o/s8Top8of"><img src="https://img.shields.io/badge/kakaotalk-yellow?style=for-the-badge&logo=kakaotalk&logoColor=black"> </a>
 
 
