@@ -17,8 +17,9 @@
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ricky0130@naver.com)](mailto:ricky0130@naver.com) <span><a href="https://ricky0130.notion.site/373a5d0e1acf4740bda320408d6d302e?pvs=4"><img src="https://img.shields.io/badge/notion-white?style=round-square&logo=Notion&logoColor=black"/></span></a>
  <span><a href="https://blog.naver.com/ricky0130"><img src="https://img.shields.io/badge/Naver-green?style=round-square&logo=Naver&logoColor=white"/></span></a>
+ 
  <span><a href="https://www.facebook.com/profile.php?id=100009001297630"><img src="https://img.shields.io/badge/facebook-blue?style=round-square&logo=
- facebook&logoColor=black"/></span></a>
+ facebook&logoColor=white"/></span></a>
 
 
 <br>
