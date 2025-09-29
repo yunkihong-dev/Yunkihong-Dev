@@ -2,11 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=120&section=header&text=yunkihong-dev&fontSize=40&fontColor=ffffff"/>
 </div>
 
-## Profile
-
-🧑 홍윤기  
-👶 2000.01.30  
-📞 010-9664-8141  
+## Profile 
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ricky0130@naver.com)](mailto:ricky0130@naver.com)
 [![Notion Badge](https://img.shields.io/badge/Notion-white?style=flat-square&logo=Notion&logoColor=black)](https://ricky0130.notion.site/373a5d0e1acf4740bda320408d6d302e?pvs=4)
@@ -15,6 +11,11 @@
 [![KakaoTalk Badge](https://img.shields.io/badge/KakaoTalk-yellow?style=flat-square&logo=KakaoTalk&logoColor=black)](https://open.kakao.com/o/s8Top8of)
 
 ---
+
+### 🌟 Experience 🌟
+2020.03 ~ 2026.03 국립안동대학교 멀티미디어공학과
+2023.08 ~ 2026.03 개발 학술 동아리 "보안셀"
+2025.07 ~ 우리FIS Academy 클라우드 엔지니어링 5기
 
 ## 🏆 Awards
 
@@ -38,7 +39,6 @@
     <td>
       <img src="https://img.shields.io/badge/JAVA-blueviolet?style=flat-square"/> 
       <img src="https://img.shields.io/badge/JSP-red?style=flat-square"/> 
-      <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=JSON&logoColor=white"/> 
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
     </td>
   </tr>
@@ -108,4 +108,57 @@
       <img src="https://img.shields.io/badge/KakaoMap-yellow?style=flat-square"/>
     </td>
   </tr>
+</table>
+
+# Projects
+
+# 주요 프로젝트
+
+
+<table>
+  <thead>
+  <tr>
+    <th style="width:18%">프로젝트</th>
+    <th style="width:28%">이미지</th>
+    <th style="width:28%">설명</th>
+    <th style="width:20%">기술스택</th>
+    <th style="width:6%">개발기간</th>
+  </tr>
+  </thead>
+ <tbody>
+  <tr>
+    <td class="repo"><a href="https://github.com/FISA-TechSeminar" target="_blank" rel="noopener noreferrer">The-Better-Bank</a></td>
+    <td><img src="https://github.com/user-attachments/assets/7bd49679-77db-4cd6-8506-50142c91bc43" alt="The-Better-Bank" class="project-img"/></td>
+    <td>금융권 트래픽 관리 실증 실험</td>
+    <td class="badges">
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring Boot"/>
+      <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle"/>
+      <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana"/>
+      <img src="https://img.shields.io/badge/Prometheus-3EAAAF?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus"/>
+      <img src="https://img.shields.io/badge/Redis-D82C20?style=flat-square&logo=redis&logoColor=white" alt="Redis"/>
+    </td>
+    <td class="period">2025.09 ~ 2025.09</td>
+  </tr>
+  <tr>
+  <td class="repo">
+    <a href="https://github.com/EmotionTalk" target="_blank" rel="noopener noreferrer">EmotionTalk</a>
+  </td>
+  <td>
+    <img width="5120" height="2692" alt="image" src="https://github.com/user-attachments/assets/d7a6a9a6-3b67-4aa0-9709-74fd78b96ac5" />
+  </td>
+  <td>지적 장애인들을 위한 감정 분석 및 피드백 추천 채팅 서비스 개발</td>
+  <td class="badges">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring Boot"/>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" alt="MySQL"/>
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+    <img src="https://img.shields.io/badge/Redis-D82C20?style=flat-square&logo=redis&logoColor=white" alt="Redis"/>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black" alt="React"/>
+    <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI API"/>
+    <img src="https://img.shields.io/badge/STOMP_Chat-FF6600?style=flat-square" alt="STOMP Chat"/>
+  </td>
+  <td class="period">2024.03 ~ 2024.10</td>
+  </tr>
+</tbody>
 </table>
