@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=120&section=header&text=yunkihong-dev&fontSize=40&fontColor=ffffff"/>
 </div>
 
-## Profile 
+## 👤 Profile 
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ricky0130@naver.com)](mailto:ricky0130@naver.com)
 [![Notion Badge](https://img.shields.io/badge/Notion-white?style=flat-square&logo=Notion&logoColor=black)](https://ricky0130.notion.site/373a5d0e1acf4740bda320408d6d302e?pvs=4)
