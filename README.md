@@ -110,9 +110,8 @@
   </tr>
 </table>
 
-# Projects
+## 💻 Projects
 
-# 주요 프로젝트
 
 
 <table>
