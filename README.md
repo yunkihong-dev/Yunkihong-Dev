@@ -28,7 +28,6 @@
 ---
 
 ## 💻 Skills & Tools
-
 <table width="100%">
   <tr>
     <th align="center" width="20%">구분</th>
@@ -90,11 +89,28 @@
     </td>
   </tr>
   <tr>
+    <td align="center"><b>CI/CD</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=GitHub-Actions&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Security</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=SonarQube&logoColor=white"/>
+      <img src="https://img.shields.io/badge/CycloneDX-000000?style=flat-square&logo=CycloneDX&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Cosign-purple?style=flat-square"/>
+    </td>
+  </tr>
+  <tr>
     <td align="center"><b>Environment</b></td>
     <td>
       <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=Spring-Boot&logoColor=white"/>
       <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat-square&logo=Apache-Tomcat&logoColor=white"/>
       <img src="https://img.shields.io/badge/JPA-59666C?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/>
     </td>
   </tr>
   <tr>
@@ -108,8 +124,41 @@
       <img src="https://img.shields.io/badge/KakaoMap-yellow?style=flat-square"/>
     </td>
   </tr>
+  <tr>
+    <td align="center"><b>Cloud</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Amazon_EC2-FF9900?style=flat-square&logo=Amazon-EC2&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Amazon_EKS-FF9900?style=flat-square&logo=Amazon-EKS&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=flat-square&logo=Amazon-S3&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Amazon_RDS-527FFF?style=flat-square&logo=Amazon-RDS&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Amazon_DynamoDB-4053D6?style=flat-square&logo=Amazon-DynamoDB&logoColor=white"/>
+      <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=AWS-Lambda&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Virtualization</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=VMware&logoColor=white"/>
+      <img src="https://img.shields.io/badge/vCenter-607078?style=flat-square&logo=VMware&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Monitoring</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Logstash-005571?style=flat-square&logo=Logstash&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=Kibana&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=Grafana&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Testing</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/K6-7D64FF?style=flat-square&logo=K6&logoColor=white"/>
+    </td>
+  </tr>
 </table>
-
 ## 💻 Projects
 
 
