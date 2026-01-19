@@ -159,9 +159,8 @@
     </td>
   </tr>
 </table>
+
 ## 💻 Projects
-
-
 
 <table>
   <thead>
@@ -212,7 +211,5 @@
 </tbody>
 </table>
 
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ricky0130)](https://solved.ac/ricky0130/)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunkihong-dev&layout=donut&show_icons=true&hide_border=true&bg_color=FFFFF&icon_color=DDDDFF&text_color=2F4F4F&title_color=DDBBDD&count_private=true&exclude_repo=Face-Transfer-Application" /> 
 <img src="https://github-readme-stats.vercel.app/api?username=yunkihong-dev&show_icons=true&theme=buefy&hide_border=true&bg_color=FFFFF&icon_color=DDDDFF&text_color=2F4F4F&title_color=BBBBDD&count_private=true" />
